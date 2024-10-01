@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "name": "Pancakes",
+    "ingredients": [
+      "flour",
+      "milk",
+      "eggs",
+      "sugar",
+      "baking powder"
+    ],
+    "instructions": [
+      "Mix flour, sugar, and baking powder.",
+      "Add milk and eggs, and mix until smooth.",
+      "Cook on a griddle until bubbles form, then flip and cook until golden brown."
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": 2,
+    "name": "Caesar Salad",
+    "ingredients": [
+      "romaine lettuce",
+      "croutons",
+      "Caesar dressing",
+      "parmesan cheese"
+    ],
+    "instructions": [
+      "Chop romaine lettuce.",
+      "Add croutons and parmesan cheese.",
+      "Toss with Caesar dressing."
+    ],
+    "category": "lunch"
+  },
+  {
+    "id": 3,
+    "name": "Spaghetti Bolognese",
+    "ingredients": [
+      "spaghetti",
+      "ground beef",
+      "tomato sauce",
+      "onion",
+      "garlic"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package instructions.",
+      "Brown ground beef with chopped onion and garlic.",
+      "Add tomato sauce and simmer.",
+      "Mix sauce with cooked spaghetti."
+    ],
+    "category": "dinner"
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Cake",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "cocoa powder",
+      "baking powder",
+      "eggs",
+      "milk"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F.",
+      "Mix flour, sugar, cocoa powder, and baking powder.",
+      "Add eggs and milk, and mix until smooth.",
+      "Pour into a baking pan and bake for 30 minutes."
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": 5,
+    "name": "Omelette",
+    "ingredients": [
+      "eggs",
+      "milk",
+      "cheese",
+      "ham",
+      "bell pepper"
+    ],
+    "instructions": [
+      "Beat eggs with milk.",
+      "Pour into a heated pan.",
+      "Add cheese, ham, and bell pepper.",
+      "Fold and cook until eggs are set."
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": 6,
+    "name": "Chicken Sandwich",
+    "ingredients": [
+      "chicken breast",
+      "bread",
+      "lettuce",
+      "tomato",
+      "mayonnaise"
+    ],
+    "instructions": [
+      "Grill chicken breast.",
+      "Toast bread slices.",
+      "Assemble sandwich with lettuce, tomato, grilled chicken, and mayonnaise."
+    ],
+    "category": "lunch"
+  },
+  {
+    "id": 7,
+    "name": "Grilled Salmon",
+    "ingredients": [
+      "salmon fillet",
+      "lemon",
+      "olive oil",
+      "garlic",
+      "herbs"
+    ],
+    "instructions": [
+      "Marinate salmon with lemon, olive oil, garlic, and herbs.",
+      "Preheat grill.",
+      "Grill salmon until cooked through."
+    ],
+    "category": "dinner"
+  },
+  {
+    "id": 8,
+    "name": "Apple Pie",
+    "ingredients": [
+      "apples",
+      "flour",
+      "sugar",
+      "butter",
+      "cinnamon"
+    ],
+    "instructions": [
+      "Prepare pie crust with flour and butter.",
+      "Fill with sliced apples mixed with sugar and cinnamon.",
+      "Cover with top crust and bake until golden brown."
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": 9,
+    "name": "French Toast",
+    "ingredients": [
+      "bread",
+      "eggs",
+      "milk",
+      "cinnamon",
+      "sugar"
+    ],
+    "instructions": [
+      "Beat eggs with milk, cinnamon, and sugar.",
+      "Dip bread slices in the mixture.",
+      "Cook on a griddle until golden brown."
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": 10,
+    "name": "Tacos",
+    "ingredients": [
+      "taco shells",
+      "ground beef",
+      "lettuce",
+      "tomato",
+      "cheese",
+      "sour cream"
+    ],
+    "instructions": [
+      "Cook ground beef in a pan.",
+      "Fill taco shells with beef, lettuce, tomato, cheese, and sour cream."
+    ],
+    "category": "dinner"
+  },
+  {
+    "id": 11,
+    "name": "Minestrone Soup",
+    "ingredients": [
+      "vegetable broth",
+      "carrots",
+      "celery",
+      "onion",
+      "tomatoes",
+      "pasta"
+    ],
+    "instructions": [
+      "Chop vegetables.",
+      "Cook vegetables in broth until tender.",
+      "Add pasta and cook until done."
+    ],
+    "category": "lunch"
+  },
+  {
+    "id": 12,
+    "name": "Banana Bread",
+    "ingredients": [
+      "bananas",
+      "flour",
+      "sugar",
+      "baking soda",
+      "eggs",
+      "butter"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F.",
+      "Mash bananas and mix with sugar, eggs, and melted butter.",
+      "Add flour and baking soda, and mix until smooth.",
+      "Pour into a loaf pan and bake for 60 minutes."
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": 13,
+    "name": "Chicken Curry",
+    "ingredients": [
+      "chicken breast",
+      "coconut milk",
+      "curry powder",
+      "onion",
+      "garlic",
+      "ginger"
+    ],
+    "instructions": [
+      "Cook chopped onion, garlic, and ginger in a pan.",
+      "Add chicken and curry powder, and cook until chicken is done.",
+      "Add coconut milk and simmer."
+    ],
+    "category": "dinner"
+  },
+  {
+    "id": 14,
+    "name": "Greek Salad",
+    "ingredients": [
+      "cucumber",
+      "tomato",
+      "feta cheese",
+      "olives",
+      "red onion",
+      "olive oil"
+    ],
+    "instructions": [
+      "Chop cucumber, tomato, and red onion.",
+      "Mix with feta cheese and olives.",
+      "Drizzle with olive oil."
+    ],
+    "category": "lunch"
+  },
+  {
+    "id": 15,
+    "name": "Beef Stew",
+    "ingredients": [
+      "beef",
+      "potatoes",
+      "carrots",
+      "onion",
+      "beef broth",
+      "flour"
+    ],
+    "instructions": [
+      "Brown beef in a pot.",
+      "Add chopped potatoes, carrots, and onion.",
+      "Sprinkle with flour and stir.",
+      "Add beef broth and simmer until vegetables are tender."
+    ],
+    "category": "dinner"
+  },
+  {
+    "id": 16,
+    "name": "Blueberry Muffins",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "baking powder",
+      "eggs",
+      "milk",
+      "blueberries"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F.",
+      "Mix flour, sugar, and baking powder.",
+      "Add eggs and milk, and mix until smooth.",
+      "Fold in blueberries.",
+      "Pour into muffin tins and bake for 25 minutes."
+    ],
+    "category": "dessert"
+  },
+  {
+    "id": 17,
+    "name": "Vegetable Stir Fry",
+    "ingredients": [
+      "broccoli",
+      "carrots",
+      "bell pepper",
+      "soy sauce",
+      "garlic",
+      "ginger"
+    ],
+    "instructions": [
+      "Chop vegetables.",
+      "Cook garlic and ginger in a pan.",
+      "Add vegetables and soy sauce, and stir fry until tender."
+    ],
+    "category": "dinner"
+  },
+  {
+    "id": 18,
+    "name": "Quiche",
+    "ingredients": [
+      "pie crust",
+      "eggs",
+      "milk",
+      "cheese",
+      "spinach",
+      "ham"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F.",
+      "Beat eggs with milk.",
+      "Add cheese, spinach, and ham.",
+      "Pour into pie crust and bake for 45 minutes."
+    ],
+    "category": "breakfast"
+  },
+  {
+    "id": 19,
+    "name": "Shrimp Scampi",
+    "ingredients": [
+      "shrimp",
+      "garlic",
+      "butter",
+      "lemon",
+      "parsley",
+      "pasta"
+    ],
+    "instructions": [
+      "Cook pasta according to package instructions.",
+      "Cook garlic in butter in a pan.",
+      "Add shrimp and cook until pink.",
+      "Add lemon juice and parsley.",
+      "Mix with cooked pasta."
+    ],
+    "category": "dinner"
+  },
+  {
+    "id": 1727795301899,
+    "name": "Koekjes",
+    "ingredients": [
+      "fds",
+      "sdf",
+      "fds",
+      "dsf"
+    ],
+    "instructions": [
+      "dsfgdhfjg gdfs",
+      "dfsgdhfjgk dhtgffsd"
+    ],
+    "category": "tussendoortje"
+  }
+]
